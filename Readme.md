@@ -8,5 +8,3 @@
 
 ## 📚 Materi Pembelajaran
 **Dasar Pemrograman Bahasa C:** Pembelajaran dilakukan secara berkelompok, dimulai dari tingkat dasar (fundamental) hingga pemahaman konsep pemrograman.
-
-## Day 1
